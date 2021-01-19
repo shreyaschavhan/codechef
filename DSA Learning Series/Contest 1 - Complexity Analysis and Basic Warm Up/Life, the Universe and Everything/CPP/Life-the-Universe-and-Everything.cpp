@@ -1,23 +1,23 @@
 // Author - Shreyas Chavhan
 // Profile - https://github.com/shreyaschavhan
+// Link - https://www.codechef.com/LRNDSA01/problems/TEST
 
 #include <bits/stdc++.h>
 using namespace std;
-
-int add(int A, int B){
-    return (A+B);
-}
 
 int main(){
     ios_base :: sync_with_stdio(false);
     cin.tie(NULL);
 
-    int t;
-    cin >> t;
-    for(int i = 0; i < t; i++){
-        int A, B;
-        cin >> A >> B;
-        cout << add(A, B) << '\n';
+    for(;;){
+        int n;
+        cin >> n;
+        if(n == 42){
+            break;
+        }
+        else{
+            cout << n << endl;
+        }
     }
     return 0;
 }

@@ -1,6 +1,6 @@
-/*
-Link - https://www.codechef.com/problems/INTEST
-*/
+// Author - Shreyas Chavhan
+// Profile - https://github.com/shreyaschavhan
+
 #include <bits/stdc++.h>
 using namespace std;
 

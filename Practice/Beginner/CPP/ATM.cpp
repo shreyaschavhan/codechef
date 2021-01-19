@@ -1,6 +1,8 @@
-/*
-Link - https://www.codechef.com/problems/HS08TEST
-*/
+
+// Author - Shreyas Chavhan
+// Profile - https://github.com/shreyaschavhan
+// Link - https://www.codechef.com/problems/HS08TEST
+
 
 #include <bits/stdc++.h>
 using namespace std;
