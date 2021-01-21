@@ -8,6 +8,7 @@ A place to share my solutions to codochef's competitive as well as practice prog
 ## Useful Links 
 
 1. XOR Tricks - https://florian.github.io/xor-trick/ 
+2. Modular Arithmetic - https://brilliant.org/wiki/modular-arithmetic/
 
 
 ---
